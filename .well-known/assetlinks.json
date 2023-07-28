@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.pumpkin.date",
+            "sha256_cert_fingerprints": [
+                "BE:C2:E9:08:D4:F3:8B:04:E4:A2:AB:ED:DB:5B:E3:6B:21:6A:7F:70:56:30:14:66:00:1D:20:A7:63:3F:83:09"
+            ]
+        }
+    }
+]
